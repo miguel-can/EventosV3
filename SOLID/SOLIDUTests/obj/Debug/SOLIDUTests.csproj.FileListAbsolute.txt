@@ -1,0 +1,34 @@
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\SOLIDUTests.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\SOLIDUTests.pdb
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\Castle.Core.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\Moq.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\SOLID.exe
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\SOLID.pdb
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\Castle.Core.xml
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\Moq.xml
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.csprojResolveAssemblyReference.cache
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.dll
+C:\Users\miguel.can\Documents\Visual Studio 2015\Projects\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.pdb
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\SOLIDUTests.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\SOLIDUTests.pdb
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\Castle.Core.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\Moq.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\SOLID.exe
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\SOLID.pdb
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\Castle.Core.xml
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\Moq.xml
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.csprojResolveAssemblyReference.cache
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.dll
+C:\Buenas Practicas\AplicacionEventosV3\SOLID\SOLIDUTests\obj\Debug\SOLIDUTests.pdb
